@@ -11,8 +11,8 @@ app.use(express.static("public"));
 const config = {
   user: "serveradmin",
   password: "Akashgk@9380",
-  server: "curdsqldbs.database.windows.net",
-  database: "curdsqldb",
+  server: "cruddbs.database.windows.net",
+  database: "crudsqldb",
   options: {
     encrypt: true,
     trustServerCertificate: false,
