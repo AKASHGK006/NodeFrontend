@@ -32,7 +32,3 @@ pm2 start server.js --name NodeFrontend
 
 # Save PM2 process list to resurrect on reboot
 pm2 save
-
-chmod +x script.sh
-
-./script.sh
